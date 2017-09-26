@@ -3,10 +3,9 @@ import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib.patches as mpatches
 
-#Parameters
 
 #Artery wall - Blue
-a_wall_in=5
+a_wall_in=%
 b_wall_in= 3
 thick_wall = 1.1
 
