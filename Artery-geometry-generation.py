@@ -15,6 +15,7 @@ thick_wall = 1.1
 x_L= -1
 R_L = 2.2
 
+#Calcium/Lipid mass - Green
 x_M = 3
 a_M = 0.4
 b_M = 1.2
