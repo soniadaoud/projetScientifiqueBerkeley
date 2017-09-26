@@ -5,6 +5,7 @@ import matplotlib.patches as mpatches
 
 #Parameters
 
+
 #Artery wall - Blue
 a_wall_in=5
 b_wall_in= 3
